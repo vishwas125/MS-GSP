@@ -1,6 +1,10 @@
 # MS-GSP - Multiple-Support Generalized Sequential Patterns
 An implementation of Multi-Support Generalized Sequential Patterns (MS-GSP) algorithm in python.
 
+It can extract frequent patterns from a set of input sequences. MS-GSP is introduced in the following book for mining sequential patterns:
+
+Bing Liu, ["Web Data Mining - Exploring Hyperlinks, Contents, and Usage Data"](https://www.springer.com/us/book/9783642194597), P 43-49, Springer, 2011.
+
 ## Files
 
 fileRead.py - Used for reading inputs from data and parameter files. Path to root folder containing these files need to be specified here.
